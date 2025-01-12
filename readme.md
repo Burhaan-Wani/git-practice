@@ -17,4 +17,4 @@
   - git status // check if git is initialized in a folder or not
   - git add <fileName> / git add . // stage a single change or all files
   - git commit -m "<your-message>" // save changes
-  - git log
+  - git log / git log --oneline
