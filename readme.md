@@ -18,3 +18,4 @@
   - git add <fileName> / git add . // stage a single change or all files
   - git commit -m "<your-message>" // save changes
   - git log / git log --oneline // check commits
+  - git commit --amend // add changes to the previous commit
