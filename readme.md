@@ -22,8 +22,10 @@
   - git commit --amend // add changes to the previous commit
 
 - # _Branching in git_
+
   - git branch // list branches
   - git branch (branch-name) // create a new branch
-  - git switch / checkout (branch-name)
-  - git checkout -b (branch-name)
-  - git switch -c (branch-name)
+  - git switch / checkout (branch-name) switch to different branch
+  - git checkout -b (branch-name) create as well as switch to different branch
+  - git switch -c (branch-name) same as checkout
+  - git branch -D (branch-name) // delete a branch
