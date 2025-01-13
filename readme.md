@@ -31,3 +31,7 @@
   - git branch -D (branch-name) // delete a branch
   - git branch -m (branch-name) // change branch name
   - git merge (branch-name) // merge two branches
+  - git diff
+  - git diff HEAD
+  - git diff (commit1)..(commit2)
+  - git diff --staged / --cached
