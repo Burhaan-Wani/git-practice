@@ -27,7 +27,9 @@
   - git branch (branch-name) // create a new branch
   - git switch / checkout (branch-name) switch to different branch
   - git checkout -b (branch-name) create as well as switch to different branch
-  - git switch -c (branch-name) same as the above command
+  - git switch -c (branch-name) same as the above commands
   - git branch -D (branch-name) // delete a branch
   - git branch -m (branch-name) // change branch name
   - git merge (branch-name) // merge two branches
+    86c54c8
+    91ffd9d
