@@ -31,5 +31,7 @@
   - git branch -D (branch-name) // delete a branch
   - git branch -m (branch-name) // change branch name
   - git merge (branch-name) // merge two branches
-    86c54c8
-    91ffd9d
+
+- # _Staching in git_
+
+  - git stash
