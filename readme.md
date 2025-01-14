@@ -39,3 +39,8 @@
 - # _Staching in git_
 
   - git stash
+  - git stash pop
+  - git stash apply
+  - git stash apply stash@{stash_id}
+  - git stash drop stash@{stash_id}
+  - git stash list // List all stashes
