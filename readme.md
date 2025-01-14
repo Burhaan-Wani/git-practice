@@ -35,3 +35,7 @@
   - git diff HEAD
   - git diff (commit1)..(commit2)
   - git diff --staged / --cached
+
+- # _Staching in git_
+
+  - git stash
