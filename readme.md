@@ -57,3 +57,4 @@
   - git branch -r // check remote tracking branch
   - git fetch (remote-repo-name)
   - git fetch (remote-repo-name) (branch-name)
+  - git pull (remote-repo-name) (branch-name)
