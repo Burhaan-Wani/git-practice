@@ -54,3 +54,4 @@
   - git push -u origin (remote-branch-name) // set upstream
   - git remote rename (old-remote-repo-name) (new-remote-repo-name)
   - git remote remove (remote-repo-name)
+  - git branch -r // check remote tracking branch
