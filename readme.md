@@ -55,3 +55,5 @@
   - git remote rename (old-remote-repo-name) (new-remote-repo-name)
   - git remote remove (remote-repo-name)
   - git branch -r // check remote tracking branch
+  - git fetch (remote-repo-name)
+  - git fetch (remote-repo-name) (branch-name)
