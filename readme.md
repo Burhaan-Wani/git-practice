@@ -44,3 +44,13 @@
   - git stash apply stash@{stash_id}
   - git stash drop stash@{stash_id}
   - git stash list // List all stashes
+
+- # _Git and Github_
+
+  - git clone (repo-url)
+  - git remote -v // check remote branches
+  - git remote add (remote-repo-name) (url)
+  - git push origin (remote-branch-name)
+  - git push -u origin (remote-branch-name) // set upstream
+  - git remote rename (old-remote-repo-name) (new-remote-repo-name)
+  - git remote remove (remote-repo-name)
