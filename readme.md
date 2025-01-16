@@ -56,5 +56,6 @@
   - git remote remove (remote-repo-name)
   - git branch -r // check remote tracking branch
   - git fetch (remote-repo-name)
-  - git fetch (remote-repo-name) (branch-name)
-  - git pull (remote-repo-name) (branch-name)
+  - git fetch (remote-repo-name) (branch-name) // fetch changes of a particular branch but not integrate them to working directory
+  - git pull // shorter syntax
+  - git pull (remote-repo-name) (branch-name) // pull changes of a particular branch
