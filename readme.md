@@ -55,9 +55,17 @@
   - git remote rename (old-remote-repo-name) (new-remote-repo-name)
   - git remote remove (remote-repo-name)
   - git branch -r // check remote tracking branch
+
+- # _Open source contribution Commands and pull request_
+
   - git fetch (remote-repo-name)
   - git fetch (remote-repo-name) (branch-name) // fetch changes of a particular branch but not integrate them to working directory
   - git pull // shorter syntax
-  - git pull (remote-repo-name) (branch-name) // pull changes of a particular branch into working directory
+  - git pull (remote-repo-name) (branch-name) // pull changes of a particular branch into working directory.
+  - Forking and clone
+    - Used for open source collaboration. Steps:
+      - fork and clone the repository
+      - Also set a remote branch "upstream" of the original repository to fetch latest changes and our repo to push changes to.
 
-- # _Open source contribution Commands and pull request_
+- # _Rebasing_
+  - git rebase (master/main) // alternative to merging
