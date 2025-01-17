@@ -58,4 +58,6 @@
   - git fetch (remote-repo-name)
   - git fetch (remote-repo-name) (branch-name) // fetch changes of a particular branch but not integrate them to working directory
   - git pull // shorter syntax
-  - git pull (remote-repo-name) (branch-name) // pull changes of a particular branch
+  - git pull (remote-repo-name) (branch-name) // pull changes of a particular branch into working directory
+
+- # _Open source contribution Commands and pull request_
