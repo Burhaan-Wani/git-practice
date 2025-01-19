@@ -68,4 +68,15 @@
       - Also set a remote branch "upstream" of the original repository to fetch latest changes and our repo to push changes to.
 
 - # _Rebasing_
+
   - git rebase (master/main) // alternative to merging
+
+- # _Tags_
+  - git tag // list all Tags
+  - git tag -l "(name/regex)" lists all tags containing name or whatever was specified in brackets
+  - git tag (tag-name) // create tag
+  - git tag -a (tag-name) // creates anotated tags
+  - git show (tag-name) // shows the creator and more details of tags
+  - git tag (tag-name) (commit-hash/HEAD~{1 to so on}) // tag aparticular commit
+  - git tag -d (tagname) // delete tag
+  - git push --tags // push all tags to a remote repo (by default tags are not pushed to remote repository)
